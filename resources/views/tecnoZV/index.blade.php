@@ -1,4 +1,4 @@
-@extends('layout')
+@extends('template')
 
 @section('content')
 <h2 class="mb-4">Pisos en venta</h2>
